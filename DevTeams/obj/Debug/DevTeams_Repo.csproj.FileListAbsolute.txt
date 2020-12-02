@@ -1,0 +1,9 @@
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\DevTeams\bin\Debug\DevTeams.dll
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\DevTeams\bin\Debug\DevTeams.pdb
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\DevTeams\obj\Debug\DevTeams_Repo.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\DevTeams\obj\Debug\DevTeams_Repo.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\DevTeams\obj\Debug\DevTeams.dll
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\DevTeams\obj\Debug\DevTeams.pdb
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\DevTeams\bin\Debug\Developer_Repo.dll
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\DevTeams\bin\Debug\Developer_Repo.pdb
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\DevTeams\obj\Debug\DevTeams_Repo.csproj.CopyComplete

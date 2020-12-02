@@ -1,0 +1,12 @@
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\bin\Debug\Komodo Conosole.exe.config
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\bin\Debug\Komodo Conosole.exe
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\bin\Debug\Komodo Conosole.pdb
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\obj\Debug\Komodo Conosole.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\obj\Debug\Komodo Conosole.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\obj\Debug\Komodo Conosole.exe
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\obj\Debug\Komodo Conosole.pdb
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\bin\Debug\Developer_Repo.dll
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\bin\Debug\DevTeams.dll
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\bin\Debug\Developer_Repo.pdb
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\bin\Debug\DevTeams.pdb
+D:\ElevenFiftyProjects\DotNetProjects\IndividualProjects\KomodoDevTeamApp\Komodo Conosole\obj\Debug\Komodo Conosole.csproj.CopyComplete
