@@ -37,7 +37,7 @@ namespace Komodo_Conosole
                     "7.  View List of All Developers\n" +
                     "8.  View List of Developers by Name\n" +
                     "9.  View List of Developers by DevId\n" +
-                    "10. View List of Developers without Pluralsight Access by Name\n" +
+                    "10. View List of Developers without Pluralsight Access\n" +
                     "11. Update Existing Developer Content\n" +
                     "12. Update Existing Dev Team Content\n" +
                     "13. Delete Existing Developer Content\n" +
@@ -139,7 +139,7 @@ namespace Komodo_Conosole
             newDeveloper.DevId = int.Parse(devIdAsString);
 
             //PluralSight Access
-            Console.WriteLine("Does the Developer have Pluralsight Access?");
+            Console.WriteLine("Does the Developer have Pluralsight Access? (y or n)");
             string hasPluralAccessString = Console.ReadLine().ToLower();
             if (hasPluralAccessString == "y")
             {
@@ -179,7 +179,7 @@ namespace Komodo_Conosole
         private void AddDeveloperToDevTeam()
         {
             
-            Console.WriteLine("Would you like to add a Developer to a Dev Team? Please enter yes or no.");
+            Console.WriteLine("Would you like to add a Developer to a Dev Team? Please enter y or n.");
             string addDevToDevTeam = Console.ReadLine().ToLower();
             while (addDevToDevTeam == "y")
             {
@@ -210,7 +210,7 @@ namespace Komodo_Conosole
                     Console.WriteLine("Cannot Add Developer to DevTeam.");
                 }
                 DisplayListOfAllDevelopers();
-                Console.WriteLine("Would you like to add another Developer to a Dev Team? Please enter yes or no.");
+                Console.WriteLine("Would you like to add another Developer to a Dev Team? Please enter y or n.");
                 addDevToDevTeam = Console.ReadLine().ToLower();
 
             }
